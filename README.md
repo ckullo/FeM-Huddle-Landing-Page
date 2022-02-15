@@ -26,9 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop View (1440px width)
 ![](./screenshot/Desktop.png)
-Mobile View (375px widht)
 ![](./screenshot/Mobile.png)
 
 ### Links
@@ -63,7 +61,7 @@ There still a lot to learn on how to design a webpage using CSS.
 
 ## Author
 
-- Frontend Mentor - [@ckullo](https://www.frontendmentor.io/profile/ckullo)
+- Frontend - [@ckullo](https://www.frontendmentor.io/profile/ckullo)
 
 ## Acknowledgments
 
